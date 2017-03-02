@@ -11,6 +11,8 @@ you need SharpDevelop to build this viewer. and maybe VncSharp.dll to i dont rem
 4. Go to the bin folder and the debug/release folder
 5. run BooVncViewer.exe
 
+Dont forget to import VncSharp with the other toolbox items
+
 # Reporting Bugs
 
 put the bugs in the issues or pull request sections and i will get to them when i can.
